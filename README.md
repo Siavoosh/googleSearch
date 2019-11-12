@@ -1,7 +1,7 @@
 # googleSearch
 this file can get base urls from google search result per each page
 
-HOWTO USE ?
+HOWTO USE ? 
 
 1 - upload search.php on your host or localhost
 2- use it like this : 
