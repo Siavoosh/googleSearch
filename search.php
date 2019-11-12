@@ -1,4 +1,5 @@
 <?php
+// this line is only for test
 if (isset($_GET['q']) && !empty($_GET['q'])) {
 
     define("PER_PAGE", 10);
